@@ -5,4 +5,3 @@ fn main() {
     io::stdout().flush().unwrap();
     std::thread::sleep(std::time::Duration::from_millis(200));
 }
-
